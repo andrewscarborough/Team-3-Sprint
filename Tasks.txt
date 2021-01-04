@@ -1,0 +1,8 @@
+List of tasks for Team 3 Sprint project:
+
+Specify an agreed time for the next meeting on Sunday 10 Jan 2021
+break down sprint1a into chunks 
+test different variables
+troubleshoot for any issues with team on Slack and any coding problems using Git Issues page for Team 3
+complete sprint1b by Sunday 10 Jan 2021 for discussion
+discuss any issues relating to sprint1b
